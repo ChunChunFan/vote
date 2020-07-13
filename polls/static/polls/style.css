@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+body {
+    margin:0;
+    padding:0;
+    background: white url("images/cs.png") no-repeat;
+    background-size: 100% 100%;
+}
